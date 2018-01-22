@@ -1,7 +1,6 @@
-"poou
-lkkj" 
-"a9766
-kjhg" 
-"ADDF34bcv2" 
-"xcv345klb" 
-"09 asoda11" 
+fatal: ambiguous argument '000': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+fatal: ambiguous argument '000': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
