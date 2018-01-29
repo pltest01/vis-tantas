@@ -6,6 +6,4 @@ Use '--' to separate paths from revisions, like this:
 fatal: ambiguous argument '000': unknown revision or path not in the working tree.
 Use '--' to separate paths from revisions, like this:
 'git <command> [<revision>...] -- [<file>...]'ads
-das
 
-aa1231
